@@ -344,7 +344,6 @@ merk4.bind("<Button-1>",
           lambda e="Discription": tund_merk(e))
 alin.bind("<Button-1>",
           lambda e="Discription": tund_alin(e))
-    
-
+   
 
 aken.mainloop()
